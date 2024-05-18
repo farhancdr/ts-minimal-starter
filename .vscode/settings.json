@@ -1,0 +1,6 @@
+{
+  "code-runner.executorMap": {
+    "javascript": "bun $fullFileName",
+    "typescript": "bun $fullFileName"
+  }
+}
